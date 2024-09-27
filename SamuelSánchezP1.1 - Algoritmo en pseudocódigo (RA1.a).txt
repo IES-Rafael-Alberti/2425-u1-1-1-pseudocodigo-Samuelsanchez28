@@ -1,0 +1,11 @@
+1
+
+inicio
+Escribir "un numero"
+leer x
+si x mod2= 0 entonces
+    Escribir "numero", "x", es par
+sino
+    Escribir "numero" "x", es impar
+Fin
+
